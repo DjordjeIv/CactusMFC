@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  16597_Djordje_Ivanovic_Druga_Lab_Vezba.cpp
+  16597_Djordje_Ivanovic_Druga_Lab_VezbaDoc.cpp
+  16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp
+C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp(27,21): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp(28,21): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp(29,21): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp(30,21): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp(35,22): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp(36,22): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp(37,22): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_Vezba\16597_Djordje_Ivanovic_Druga_Lab_VezbaView.cpp(38,22): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+  MainFrm.cpp
+  Generating Code...
+  16597_Djordje_Ivanovic_Druga_Lab_Vezba.vcxproj -> C:\Users\Dimeni\source\repos\16597_Djordje_Ivanovic_Druga_Lab_Vezba\Debug\16597_Djordje_Ivanovic_Druga_Lab_Vezba.exe
